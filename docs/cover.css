@@ -28,14 +28,14 @@
     --cover-border-width                               : 0;
 
     /* Buttons */
-    --cover-button-background                          : #fff;
-    --cover-button-background--hover                   : #fff;
+    --cover-button-background                          : #291e50;
+    --cover-button-background--hover                   : #291e50;
     --cover-button-border                              : ;
-    --cover-button-border--hover                       : #fff;;
+    --cover-button-border--hover                       : #fff;
     --cover-button-border-radius                       : 8px;
     --cover-button-box-shadow                          : ;
-    --cover-button-box-shadow--hover                   : ;
-    --cover-button-color                               : #291e50;
+    --cover-button-box-shadow--hover                   : 0px 4px #140f27;
+    --cover-button-color                               : #fff;
     --cover-button-color--hover                        : #fff;
     --cover-button-padding                             : 1em 4rem;
     --cover-button-text-decoration                     : none;
@@ -46,21 +46,21 @@
 
     /* Buttons - Primary */
     --cover-button-primary-background                  : #291e50;
-    --cover-button-primary-background--hover           : #fff;;
+    --cover-button-primary-background--hover           : #291e50;
     --cover-button-primary-border                      : ;
     --cover-button-primary-border--hover               : #fff;;
     --cover-button-primary-box-shadow                  : ;
-    --cover-button-primary-box-shadow--hover           : ;
+    --cover-button-primary-box-shadow--hover           : 0px 4px #140f27;
     --cover-button-primary-color                       : #fff;
-    --cover-button-primary-color--hover                : #291e50;
+    --cover-button-primary-color--hover                : #fff;
     --cover-button-primary-text-decoration             : #291e50;
     --cover-button-primary-text-decoration--hover      : #291e50;
     --cover-button-primary-text-decoration-color       : #291e50;
-    --cover-button-primary-text-decoration-color--hover: ;
+    --cover-button-primary-text-decoration-color--hover: #291e50;
 
     /* Heading */
     --cover-heading-color                              : #ffffff;
-    --cover-heading-font-size                          : var(--font-size-l);
+    --cover-heading-font-size                          : var(--font-size-xxl);
     --cover-heading-font-size-min                      : ;
     --cover-heading-font-size-max                      : ;
     --cover-heading-font-weight                        : ;

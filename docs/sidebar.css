@@ -1,12 +1,12 @@
 /* Sidebar
 ============================================================================= */
 :root {
-    --sidebar-background                          : var(--base-background-color);
+    --sidebar-background                          : #f6f6f6;
     --sidebar-border-color                        : ;
     --sidebar-border-width                        : 0;
     --sidebar-padding                             : 0 24px;
     --sidebar-transition-duration                 : var(--duration-fast);
-    --sidebar-width                               : 24rem;
+    --sidebar-width                               : 18rem;
 
     /* Name */
     --sidebar-name-background                     : ;
@@ -15,14 +15,14 @@
     --sidebar-name-font-size                      : var(--font-size-l);
     --sidebar-name-font-weight                    : normal;
     --sidebar-name-margin                         : 1.5rem 0 0;
-    --sidebar-name-padding                        : ;
+    --sidebar-name-padding                        : 1rem;
     --sidebar-name-text-align                     : center;
 
     /* Nav Headings */
     --sidebar-nav-strong-border-color             : var(--sidebar-border-color);
     --sidebar-nav-strong-border-width             : ;
     --sidebar-nav-strong-color                    : var(--heading-color);
-    --sidebar-nav-strong-font-size                : ;
+    --sidebar-nav-strong-font-size                : 2rem;
     --sidebar-nav-strong-font-weight              : var(--strong-font-weight);
     --sidebar-nav-strong-margin                   : 1.5em 0 0.5em;
     --sidebar-nav-strong-padding                  : 0.25em 0;
@@ -38,7 +38,7 @@
     --sidebar-nav-link-background-color           : ;
     --sidebar-nav-link-background-color--active   : Underline;
     --sidebar-nav-link-background-color--hover    : Underline;
-    --sidebar-nav-link-background-image           : #3C96DC;
+    --sidebar-nav-link-background-image           : ;
     --sidebar-nav-link-background-image--active   : #3C96DC;
     --sidebar-nav-link-background-image--hover    : #3C96DC;
     --sidebar-nav-link-background-position        : ;
@@ -52,28 +52,28 @@
     --sidebar-nav-link-border-color--active       : ;
     --sidebar-nav-link-border-color--hover        : ;
     --sidebar-nav-link-border-radius              : ;
-    --sidebar-nav-link-border-style               : solid;
+    --sidebar-nav-link-border-style               : ;
     --sidebar-nav-link-border-style--active       : ;
     --sidebar-nav-link-border-style--hover        : ;
-    --sidebar-nav-link-border-width               : 0;
+    --sidebar-nav-link-border-width               : ;
     --sidebar-nav-link-border-width--active       : ;
     --sidebar-nav-link-border-width--hover        : ;
     --sidebar-nav-link-color                      : var(--base-color);
-    --sidebar-nav-link-color--active              : ;
-    --sidebar-nav-link-color--hover               : ;
+    --sidebar-nav-link-color--active              : #3c96dc;
+    --sidebar-nav-link-color--hover               : #3c96dc;
     --sidebar-nav-link-font-weight                : normal;
-    --sidebar-nav-link-font-weight--active        : ;
+    --sidebar-nav-link-font-weight--active        : bold;
     --sidebar-nav-link-font-weight--hover         : ;
     --sidebar-nav-link-margin                     : ;
-    --sidebar-nav-link-padding                    : 0.25em 0;
+    --sidebar-nav-link-padding                    : 4em 0;
     --sidebar-nav-link-text-decoration            : ;
-    --sidebar-nav-link-text-decoration--active    : underline;
-    --sidebar-nav-link-text-decoration--hover     : underline;
+    --sidebar-nav-link-text-decoration--active    : ;
+    --sidebar-nav-link-text-decoration--hover     : ;
     --sidebar-nav-link-text-decoration-color      : ;
     --sidebar-nav-link-transition                 : ;
 
     /* Nav Links - Pseudo Content */
-    --sidebar-nav-link-before-content             : #3C96DC;
+    --sidebar-nav-link-before-content             : ;
     --sidebar-nav-link-before-content--active     : ;
     --sidebar-nav-link-before-content-l1          : ;
     --sidebar-nav-link-before-content-l1--active  : ;
@@ -86,7 +86,7 @@
 
     /* Nav Links - Pseudo Style */
     --sidebar-nav-link-before-color               : ;
-    --sidebar-nav-link-before-color--active       : #3C96DC;
+    --sidebar-nav-link-before-color--active       : ;
     --sidebar-nav-link-before-color-l1            : ;
     --sidebar-nav-link-before-color-l1--active    : ;
     --sidebar-nav-link-before-color-l2            : ;
@@ -102,17 +102,17 @@
     --sidebar-nav-link-before-margin-l4           : ;
 
     /* Nav Page Links */
-    --sidebar-nav-pagelink-background-image             : ;
-    --sidebar-nav-pagelink-background-image--active     : ;
-    --sidebar-nav-pagelink-background-image--collapse   : ;
-    --sidebar-nav-pagelink-background-image--loaded     : ;
-    --sidebar-nav-pagelink-background-position          : ;
-    --sidebar-nav-pagelink-background-position--active  : ;
-    --sidebar-nav-pagelink-background-position--collapse: ;
-    --sidebar-nav-pagelink-background-position--loaded  : ;
+    --sidebar-nav-pagelink-background-image             : url('http://localhost:3000/media/chevron-right.svg');
+    --sidebar-nav-pagelink-background-image--active     : url('http://localhost:3000/media/chevron-down.svg');
+    --sidebar-nav-pagelink-background-image--collapse   : url('http://localhost:3000/media/chevron-right.svg');
+    --sidebar-nav-pagelink-background-image--loaded     : url('http://localhost:3000/media/chevron-down.svg');
+    --sidebar-nav-pagelink-background-position          : 4px;
+    --sidebar-nav-pagelink-background-position--active  : 4px;
+    --sidebar-nav-pagelink-background-position--collapse: 4px;
+    --sidebar-nav-pagelink-background-position--loaded  : 4px;
     --sidebar-nav-pagelink-background-repeat            : no-repeat;
     --sidebar-nav-pagelink-background-size              : ;
-    --sidebar-nav-pagelink-padding                      : ;
+    --sidebar-nav-pagelink-padding                      : 0.5rem 0.5rem 0.5rem 2rem;
     --sidebar-nav-pagelink-transition                   : var(--sidebar-nav-link-transition);
 
     /* Toggle */
@@ -130,3 +130,21 @@
     --sidebar-toggle-offset-top                   : calc(35px - (var(--sidebar-toggle-height) / 2));
     --sidebar-toggle-width                        : 44px;
 }
+
+
+.app-sub-sidebar .active .section-link{
+    border-right: 4px #3C96DC solid !important;
+}
+
+.app-sub-sidebar .active {
+    margin-right: -24px !important;
+}
+
+/* .sidebar-nav ul .collapse{
+    border-right: 4px #3C96DC solid !important;
+    margin-right: -24px !important;
+} */
+
+::-webkit-scrollbar {
+    display: none;
+    }

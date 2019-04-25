@@ -1,3 +1,15 @@
 <!-- docs/_sidebar.md -->
 
-* [Table of content](/)
+<strong>Employee handbook</strong>
+* [Introduction](introduction.md)
+* [Brand promises](brandpromises.md)
+* [Social Venture](socialventure.md)
+* [Rockefeller Habits](rockefeller.md)
+* [A-players](aplayers.md)
+* [Onboarding](onboarding.md)
+* [Employment](employment.md)
+* [Salary & Benefits](salarybenefits.md)
+* [Travel](travel.md)
+* [Holiday & Leave](holidayleave.md)
+
+

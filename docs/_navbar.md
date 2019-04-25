@@ -1,6 +1,3 @@
-* [En](/)
-* [Nl](/zh-nl/)
+* :rocket: This is my first day at GoodUp
 
-* Getting started :rocket:
-
-  * [Quick start](quickstart.md)
+  * [Let's get onboarded!](onboarding.md)

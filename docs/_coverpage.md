@@ -1,4 +1,4 @@
-![logo](media/gicon.svg)
+![logo](media/goodup.svg)
 
 <br>
 
@@ -6,5 +6,6 @@
 
 <br>
 
-[Get Started](#/)
+[Read docs 📓](/introduction.md)
+[🙋‍♂️ My first day 🙋‍♀️](/onboarding.md)
 
