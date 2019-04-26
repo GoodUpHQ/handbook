@@ -10,7 +10,7 @@
     --search-clear-icon-color2               : ;
 
     /* Input */
-    --search-input-background-color          : ;
+    --search-input-background-color          : red;
     --search-input-background-color--focus   : ;
     --search-input-background-image          : ;
     --search-input-background-image--focus   : ;

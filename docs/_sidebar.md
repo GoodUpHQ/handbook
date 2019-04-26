@@ -12,4 +12,7 @@
 * [Travel](travel.md)
 * [Holiday & Leave](holidayleave.md)
 
+</p>
+
+<small>[Copyright GoodUp](https://google.com "GoodUp")</small>
 

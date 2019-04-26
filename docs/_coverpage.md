@@ -6,6 +6,6 @@
 
 <br>
 
-[Read docs 📓](/introduction.md)
+[Read handbook 📓](/introduction.md)
 [🙋‍♂️ My first day 🙋‍♀️](/onboarding.md)
 

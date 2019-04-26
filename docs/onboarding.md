@@ -1,4 +1,4 @@
-<h1 style="margin-top: 2em;">Welcome to the team!</h1>
+<h1 style="margin-top: 1em;">Welcome to the team!</h1>
 
 Welcome to the GoodUp team! We are very excited to welcome a new GoodUp colleague.
 <p>
@@ -8,10 +8,10 @@ To make sure you feel part of the team and to get you up and running as soon as 
 
 - 👩‍💼  General introduction by CEO - Vision, Mission, BHAG, Core values, Rockefeller habits
 - 🤝  Introduction by Sales, Customer Success, Product and Branding
-- ☕   Coffee with a college of each department
+- ☕   Coffee with a colleague of each department
 
-In order to assure that all needed hardware such as laptops, software
-tools and office keys are ready, the office manager uses the on-boarding checklist. For each used GoodUp’s property such as a laptop or mobile phone the GoodUp team member needs to sign a separate user agreement.
+In order to assure that all needed hardware such a laptop, software
+tools and office keys are ready, the office manager uses the on-boarding checklist. For each used GoodUp’s property such as a laptop or mobile phone the GoodUp team member needs to sign a separate user agreement. 💻 🔑 📱 
 
 New GoodUp team members will receive access to our People software tool, BambooHR.
 You will receive an e-mail in which you can set up your login details and we will grants you access to your personal, job information and the employee directory. 
@@ -21,14 +21,14 @@ You will receive an e-mail in which you can set up your login details and we wil
 - 🎤 To introduce yourself to the team via a questionnaire in BambooHR
 - 📸 Send a picture so we can put you on our website and prepare your email signature 
 
-### Your buddy
+### 👥  Your buddy
 A new job can be overwhelming. To make sure you don’t feel lost a buddy will be assigned to you who will guide you through the first days, weeks and months.
 
-Having a  👥  buddy at work can make a huge difference to the speed to manage to settle into your new role, your team and GoodUp’s culture. Just knowing there is someone here to listen who is genuinely interested in helping you should make you feel supported. 
+Having a buddy at work can make a huge difference to the speed to manage to settle into your new role, your team and GoodUp’s culture. Just knowing there is someone here to listen who is genuinely interested in helping you should make you feel supported. 
 
 The role of a buddy is different to that of a mentor, manager, or coach. This relationship is far less formal, with its core purpose being encouragement and friendship. Buddy duties include more than offering directions to the toilet and our printer. Your buddy will share useful, socially-focused information to help you with the cultural acclimation 🙏.
 
-### Personal Performance & Development
+### 🛠️  Personal Performance & Development
 As an inspiration on how to be an engaged high performer at GoodUp we follow the 7 Habits of Highly Effective People by Stephen Covey:
 
 1.	Be Proactive, Not Reactive
@@ -49,21 +49,21 @@ We have quarterly goals and regular check-in’s. In the regular check ins the f
 - [x] How are you planning to reach this?
 - [x] What do you need from us to achieve this, what are your conditions?
 
-### Perform
+### 🎭 Perform
 <strong> ✔️ 1:1 Check Ins</strong> - Objectives are set at a Company Level, Team level and Personal Level. They are set per year and per quarter and followed up per week. You will have regular 1:1 check ins with your Team Manager to follow up on the OKRs and Rocks.
 
 <strong> 🎯 OKRSs</strong> - OKR (Objectives & Key Results) is a goal management framework invented by Intel and later popularized by Google. An Objective defines your goal. It should set a clear direction to a point in the future. Key Results are metrics with a target and are indicators that show you how you're progressing towards your Objective. 
 
 <strong>🗿 Rocks</strong> - Rocks are obstacles that you take away or new projects that you start. While objectives and key results are about your daily operational business working in your company are Rocks about working on your company. Rocks have innovation and change objectives to achieves your objectives better in the future. On average you should spend 80% of your time on your objectives and 20% on your Rocks.
 
-### Engage
+### 💍 Engage
 <strong>💎 Praise & Show & Shine</strong> - When employees and their work are valued, their satisfaction and productivity rises, and they are motivated to maintain or improve their good work. Praise and recognition are essential to an outstanding workplace. People want to be respected and valued by others for their contribution. Small Improvements gives you the opportunity to Praise a colleague when they have done something outstanding. This will also show up in Slack and on their Profile. During the MMM you can also give a colleague a Show & Shine if they have achieved something special or for example showed behavior that really fit one of the Company Values.
 
 <strong>📜 Company Values</strong> – It’s important to reinforce the Company Values on a regular basis. To keep them alive we show them in the office, in presentations and on the website. We also share & celebrate value stories during the MMM, WEEKLY, MONTHLY and Q-Meeting. 
 
 <strong>📝 Pulse Surveys</strong> - To continues improve ourselves becoming a People First Culture it is very important to receive continues feedback and data. Therefor we send our regular Pulse Survey via Slack using Office Vibe. The Management Team will look at this input on a regular basis to come up with measurement for improvement.
 
-### Develop
+### 📈 Develop
 <strong>❤️ Purpose</strong> – People may become disengaged and demotivated at work if they don't understand, or can't invest in, the "bigger picture." But those who believe that they are working toward something larger and more important than themselves are often the most hard-working, productive and engaged. So, encouraging you to find purpose in your work is very important for us. 
 
 

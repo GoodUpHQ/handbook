@@ -1,6 +1,6 @@
-<h1 style="margin-top: 2em;">Holiday & Leave</h1>
+<h1 style="margin-top: 1em;">Holiday & Leave</h1>
 
-### Holidays
+### 🏝️ Holidays
 GoodUp grants you 25 paid holidays per calendar year based on full-time employment; this
 amount is pro-rated to the day you start or end your employment. The same applies to part-time employment. GoodUp has the right to refuse an application if the leave constitutes a major obstacle for the business. As a responsible employer, we want to do our very best to make sure that you have the opportunity to enjoy all of your holidays during a given year.
 Transfer of holidays to the following year should be the exception and only happen in direct
@@ -18,25 +18,25 @@ Cumulating days - It can happen that you do not use all of your leave during the
 
 Requesting extra days - Per calendar year you can purchase up to 5 working days. This can be requested through email to your team manager with a cc to the office manager. When approved, your days will be added to your holiday balance.
 
-### Public holidays
+### 🇳🇱 Public holidays
 On official Dutch holidays our office is closed. If a public holiday is in a weekend or on your
 regular day off, no additional days are given to compensate. These days are paid holidays:
-• 1 January – New Year’s day
-• Variable – Easter Monday
-• Variable – Ascension day (Hemelvaart)
-• Variable – Pentecost Monday (Pinksteren)
-• 27 April – Kingsday
-• 5 May – Liberation day (1x per 5 years, next one will be in 2020)
-• 25 + 26 December – Christmas
+- 1 January – New Year’s day
+- Variable – Easter Monday
+- Variable – Ascension day (Hemelvaart)
+- Variable – Pentecost Monday (Pinksteren)
+- 27 April – Kingsday
+- 5 May – Liberation day (1x per 5 years, next one will be in 2020)
+- 25 + 26 December – Christmas
 
-### Eceptional leave
+### 🔙 Eceptional leave
 Under special circumstances, GoodUp grants paid time off. Your team manager and people
 manager have to be informed about this leave as soon as possible.
-•	Notice of marriage of the employee (ondertrouw) 1 day
-•	Wedding of yourself 1 day
-•	Moving 1 day a year
-•	Death of 1st degree family member 3 days
-•	Death of 2nd degree family member 1 day
+-	Notice of marriage of the employee (ondertrouw) 1 day
+-	Wedding of yourself 1 day
+-	Moving 1 day a year
+-	Death of 1st degree family member 3 days
+-	Death of 2nd degree family member 1 day
 
 GoodUp also grants paid emergency leave in case you need to take care of an urgent private
 matter (e.g. a water pipe broke). The emergency leave is meant only for dealing with
@@ -84,7 +84,7 @@ address of the foster parent. The leave takes up to 4 weeks.
 Unpaid leave (onbetaald verlof)
 GoodUp might grant unpaid leave under particular circumstances or upon request. Unpaid leave has to be requested in writing at least 3 months before the first day of leave. GoodUp can refuse the request for unpaid leave. During unpaid leave, no salary is paid, nor vacation.
 
-### Sick leave
+### 🤒 Sick leave
 When you fall ill, you have to inform your Team manager and the office manager as soon as
 possible but latest by 9.30 am of the same day by Slack and BambooHR
 time off request tool. In case you are still sick and unable to work after two days, on the third day of sickness the office manager might request a doctor’s certificate. The certificate has to confirm the inability to work and the expected time frame.
@@ -99,7 +99,7 @@ employment contract still exists, GoodUp will neither pay a salary, nor a supple
 WIA or any other benefits after those 2 years. There are no waiting days in case of sickness.
 
 
-### Do Good Days
+### 🌍 Do Good Days
 GoodUp’s core value is ‘We Do Good’.
 We have so many awesome change makers within our network that could be in need of a bit of your expertise and time. As we don’t want to only push our accounts to do as much good as possible we want you to share your purpose as well. It’s not only a great feeling to share; you can make a difference in the life of People and make a real change.
 
@@ -109,18 +109,18 @@ themes:
 
 We believe you can make an even bigger impact when you share your expertise. Try to find
 a project/organisation/social business that is in need of what you can do best.
-•	We believe you can make an even bigger impact when you work together with a partner organisation. They are the experts so make sure you don’t invent something that’s already out there.
-•	We believe you can make an even bigger impact when you work together with your colleagues. Of course normal work should continue so make sure to discuss
+-	We believe you can make an even bigger impact when you work together with a partner organisation. They are the experts so make sure you don’t invent something that’s already out there.
+-	We believe you can make an even bigger impact when you work together with your colleagues. Of course normal work should continue so make sure to discuss
 possibilities with your team manager.
-•	Be aware of possible negative impact; what you start, you have to finish. Make sure
+-	Be aware of possible negative impact; what you start, you have to finish. Make sure
 follow-up is provided and you don’t make any false promises. 
-•	We love storytelling, so please write a news item, make and share photos of your
+-	We love storytelling, so please write a news item, make and share photos of your
 Activity on Slack or one of our own platforms if possible. 
 
 Basic info:
-• You receive 2 business days (=16 hours) a year.
-• Always work together with a partner organisation.
-• Your team manager provides you with a final “yes, you can”.
+- You receive 2 business days (=16 hours) a year.
+- Always work together with a partner organisation.
+- Your team manager provides you with a final “yes, you can”.
 
 So how to set-up your do-good day?
 You can request is through the standard leave procedure as described in section ‘Applying
@@ -129,16 +129,16 @@ would like to do & achieve and with which partner organisation you’re going to
 include the contact details like website, contact person, email and phone number of the
 partner organisation.
 
-### Applying for a holday and leave
+### 📝 Applying for a holday and leave
 Holidays/leave have to be requested ahead of time. Ask at least the number of weeks in
 advance according to the number of days leave unless it’s described otherwise or when you
 fall ill. So for one week off, you’ll have to request it at least 5 weeks in advance. The request
 can be submitted as follows:
-•	Use our HR tool, BambooHR. Via the home screen or mobile app you can request
+-	Use our HR tool, BambooHR. Via the home screen or mobile app you can request
 time off.
-•	Select your time of type. This can be holiday, remote working, sick, do-good or
+-	Select your time of type. This can be holiday, remote working, sick, do-good or
 parental leave.
-•	Submit the date and hours for the requested leave.
-•	In the notes: describe in a short the reason if applicable.
-•	You’ll receive an approval within a week.
-•	If you want you can sync the BambooHR ‘who’s out’ calendar with your own calendar.
+-	Submit the date and hours for the requested leave.
+-	In the notes: describe in a short the reason if applicable.
+-	You’ll receive an approval within a week.
+-	If you want you can sync the BambooHR ‘who’s out’ calendar with your own calendar.
