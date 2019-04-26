@@ -2,6 +2,6 @@
 
 <br>
 
-[Read Employee handbook 📓](/introduction.md)
-[🙋‍♂️ My first day at GoodUp 🙋‍♀️](/onboarding.md)
+[Read Employee Handbook 📓](/introduction.md)
+[🙋‍♂️ Getting started at GoodUp 🙋‍♀️](/onboarding.md)
 
