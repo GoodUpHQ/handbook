@@ -34,15 +34,15 @@
     --cover-button-border--hover                       : #fff;
     --cover-button-border-radius                       : 8px;
     --cover-button-box-shadow                          : ;
-    --cover-button-box-shadow--hover                   : 0px 4px #140f27;
+    --cover-button-box-shadow--hover                   : 0px 2px #140f27;
     --cover-button-color                               : #fff;
     --cover-button-color--hover                        : #fff;
-    --cover-button-padding                             : 1em 4rem;
+    --cover-button-padding                             : 1rem 1rem;
     --cover-button-text-decoration                     : none;
     --cover-button-text-decoration--hover              : #291e50;
     --cover-button-text-decoration-color               : #291e50;
     --cover-button-text-decoration-color--hover        : #291e50;
-    --cover-button-transition                          : ;
+    --cover-button-transition                          : all var(--duration-fast) ease-in-out;
 
     /* Buttons - Primary */
     --cover-button-primary-background                  : #291e50;
