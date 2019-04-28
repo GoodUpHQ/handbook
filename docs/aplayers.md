@@ -6,7 +6,7 @@ What is an A player?
  
 <mark>**“A talented person who can do the job that needs to be done, while fitting in with the culture of the company.”**</mark>
 
-### 🦸‍♂🦸️  Recruitment
+### 🙋‍♂️ 🙋‍♀️ Recruitment
 People makes GoodUp what it is. Attracting and keeping the right people in the right positions is therefore of great importance. GoodUp uses the Top-grading method to search for A-players. A-players have the right skill set for the defined role and are high performers. Most importantly, they are also internally driven by GoodUp’s mission.
 
 ### 📨 Recruitment process
