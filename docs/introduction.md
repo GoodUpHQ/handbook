@@ -22,32 +22,34 @@ Whether you work within a company or live in a city, there is always a bigger pu
 ### 👾 BHAG
 By defining GoodUp’s core values, mission, and brand promises, we were able to define our BHAG. The BHAG stands for Big Hairy Audacious Goal and provides a long-term focus for our team.
 
-<mark>**In 2030 our GoodUp platforms engage 1 billion people to live up to their purpose.**</mark>
+> #### In 2030 our GoodUp platforms engage 1 billion people to live up to their purpose.
+> *- The BHAG*
 
 ### 📜 Core Values
 We are a Social Venture. These Core Values are the soul of our company, they are a handful
 of rules defining the culture, which are reinforced on a daily basis.
 
-We Do Good
+
+#### We Do Good
 Doing good is at the centre of everything we do. We realise that in this time where our
 choices and action have ever growing consequences, the choice for doing Good is more
 important than ever. We are aware and care about of the world around us. We lead by
 example.
 
-We Are One
+#### We Are One
 We are collaborative. We are connected within our team, with our partners, our users and the world around us. We see the bigger picture and believe by pooling together skills, knowledge and resources we can collectively create the best, long-lasting solutions.
 
-We are Open
+#### We are Open
 We are generously open. We trust and we validate. We learn and share and are always open
 for feedback. We believe open is the answer in policies, methods, software, hardware, data
 and innovation.
 
-We are Ambitious
+#### We are Ambitious
 Huge impact is our goal. We are very passionate about doing good and believe it can be
 done bigger, bolder and better. We dare to be different and try new things. We fail forward,
 learn rapidly and never give up.
 
-We are Positive
+#### We are Positive
 We strongly believe that doing good is the best way to go. Not only for the planet but also for your own health and happiness. We have an encouraging worldview where we see
 possibilities instead of problems. We believe in the power of yes. And we know that
 enthusiasm is contagious!
