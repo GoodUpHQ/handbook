@@ -22,6 +22,8 @@ Whether you work within a company or live in a city, there is always a bigger pu
 ### 👾 BHAG
 By defining GoodUp’s core values, mission, and brand promises, we were able to define our BHAG. The BHAG stands for Big Hairy Audacious Goal and provides a long-term focus for our team.
 
+<mark>**In 2030 our GoodUp platforms engage 1 billion people to live up to their purpose.**</mark>
+
 ### 📜 Core Values
 We are a Social Venture. These Core Values are the soul of our company, they are a handful
 of rules defining the culture, which are reinforced on a daily basis.
