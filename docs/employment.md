@@ -49,11 +49,11 @@ After informing your team manager, end of employment at GoodUp has to be submitt
 writing to the office manager. 
 
 In the last working week:
-•	All-important data that are related to GoodUp need to be handed over to the team
+- All-important data that are related to GoodUp need to be handed over to the team
 manager.
-•	An exit interview will be scheduled with your team manager so feedback can be
+-	An exit interview will be scheduled with your team manager so feedback can be
 shared.
-•	Upon request GoodUp could prepare a reference letter for you (if in good standing
+-	Upon request GoodUp could prepare a reference letter for you (if in good standing
 with GoodUp).
 
 At the end of employment, you’ll have to return all property to GoodUp that you received
