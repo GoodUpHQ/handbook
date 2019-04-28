@@ -14,5 +14,5 @@
 
 </p>
 
-<small>[Copyright GoodUp](https://google.com "GoodUp")</small>
+<small>[Copyright GoodUp](https://www.goodup.com "GoodUp")</small>
 
