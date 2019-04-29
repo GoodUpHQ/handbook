@@ -18,10 +18,10 @@ Once a quarter an introduction meeting is held by Qpensioen (GoodUp’s pension 
 
 ### 🏥 insurances
 When working at GoodUp, the following is covered within the Netherlands:
-• Liability insurance (aansprakelijkheidsverzekering ASR.nl) – in case you get injured or fall
+- Liability insurance (aansprakelijkheidsverzekering ASR.nl) – in case you get injured or fall
 ill because of the work that’s been done for GoodUp.
-• Accident insurance – in case of an accident that results in death or long-term disability.
-• Travel insurance – If you have to travel for work, GoodUp has a global travel insurance.
+- Accident insurance – in case of an accident that results in death or long-term disability.
+- Travel insurance – If you have to travel for work, GoodUp has a global travel insurance.
 There is a separate safety policy for travelling, see section Traveling and annexe.
 
 

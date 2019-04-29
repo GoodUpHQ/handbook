@@ -15,6 +15,8 @@ reschedule your regular day off within 2 weeks in advance. When your regular day
 Overtime will not be compensated unless discussed otherwise. If overtime occurs outside office hours due to traveling abroad or to clients, for example giving a master class in the
 evening. These hours can be compensated within 2 weeks in agreement with your team manager and the office manager should also be informed (by e-mail).
 
+:email: <mark>Email our [Office Manager](mailto:bregje@goodup.com "Mail Bregje")</mark>
+
 ### 🏠 Working remote
 We like to work together as a team and use our GoodUp office as a default, however it can
 happen that it’s better to work remotely due to personal or work related reasons. When you want to work remotely you can request it through our Bamboo tool. Put it in your calendar so everybody knows where you are. When working remotely, you’re expected to be available on Slack and able to respond within half an hour.
@@ -25,6 +27,8 @@ composition, relocation, marriage, working hours, etc.) the office manager need 
 informed – preferably through BambooHR if possible, otherwise e-mail - so action can be
 taken where necessary.
 
+🎍<mark>Go to Bamboo -> http://goodup.bamboohr.com</mark>
+
 
 ### 💰 Expenses & reimbursements 
 GoodUp will pay the necessary costs in order to execute your work (better). These include
@@ -34,6 +38,8 @@ limit. This limit is based on good judgement what you think will benefit GoodUp.
 
 You can send your reimbursement request including the original receipt to
 finance@onepercentclub.com within a month from the purchase date.
+
+🧾 <mark> Download the [declaration form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Declaration form")</mark>
 
 Expense statements can be found in the GoodUp team Dropbox folder. Expense statements
 need to be filled out digitally (in excel), printed out and handed in with all original receipts.

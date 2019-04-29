@@ -28,6 +28,10 @@ Having a buddy at work can make a huge difference to the speed to manage to sett
 
 The role of a buddy is different to that of a mentor, manager, or coach. This relationship is far less formal, with its core purpose being encouragement and friendship. Buddy duties include more than offering directions to the toilet and our printer. Your buddy will share useful, socially-focused information to help you with the cultural acclimation 🙏.
 
+
+
+<mark> [View document on how to be a good buddy](https://www.dropbox.com/s/ym58bws2rgg1lm4/How%20to%20be%20a%20Good%20Buddy.pdf?dl=0 "Good buddy document")</mark>
+
 ### 🛠️  Personal Performance & Development
 As an inspiration on how to be an engaged high performer at GoodUp we follow the 7 Habits of Highly Effective People by Stephen Covey:
 
