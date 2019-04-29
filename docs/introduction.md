@@ -53,3 +53,5 @@ learn rapidly and never give up.
 We strongly believe that doing good is the best way to go. Not only for the planet but also for your own health and happiness. We have an encouraging worldview where we see
 possibilities instead of problems. We believe in the power of yes. And we know that
 enthusiasm is contagious!
+
+ <mark> View our [animated core values](https://core-values.netlify.com/ "Core Values Carrousel")</mark>

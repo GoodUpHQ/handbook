@@ -18,6 +18,8 @@ Cumulating days - It can happen that you do not use all of your leave during the
 
 Requesting extra days - Per calendar year you can purchase up to 5 working days. This can be requested through email to your team manager with a cc to the office manager. When approved, your days will be added to your holiday balance.
 
+🎍<mark>Request holidays in Bamboo -> http://goodup.bamboohr.com</mark>
+
 ### 🇳🇱 Public holidays
 On official Dutch holidays our office is closed. If a public holiday is in a weekend or on your
 regular day off, no additional days are given to compensate. These days are paid holidays:
@@ -129,6 +131,8 @@ would like to do & achieve and with which partner organisation you’re going to
 include the contact details like website, contact person, email and phone number of the
 partner organisation.
 
+🎍<mark>Request do good days in Bamboo -> http://goodup.bamboohr.com</mark>
+
 ### 📝 Applying for a holday and leave
 Holidays/leave have to be requested ahead of time. Ask at least the number of weeks in
 advance according to the number of days leave unless it’s described otherwise or when you
@@ -142,3 +146,5 @@ parental leave.
 -	In the notes: describe in a short the reason if applicable.
 -	You’ll receive an approval within a week.
 -	If you want you can sync the BambooHR ‘who’s out’ calendar with your own calendar.
+
+🎍<mark>Apply for holiday and leave in Bamboo -> http://goodup.bamboohr.com</mark>
