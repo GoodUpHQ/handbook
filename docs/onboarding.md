@@ -78,6 +78,3 @@ For Covey (The  7 Habits of Highly Effective People), Sharpening the Saw is abou
 High performance people are generally self-improving through experience, observation, introspection, reading and discussion. Just like at Netflix we say: “We develop people by giving them the opportunity to develop themselves, by surrounding them with stunning colleagues and giving them big challenges to work on.” 
 
 <strong>📣 360 Feedback</strong> - Throughout the year we strive to regularly give and receive thoughtful and honest feedback. This can either be done in person or through 360 degrees feedback. As a tool we use small improvements.com and helps us to make this process easy and fun.
-
-Everyone working at GoodUp, has a yearly budget of € 250 to spend on work relevant
-training. For this purpose, you have to discuss this with your team manager. This time spent on personal development can be done during working hours. This budget is personal and cannot be transferred to anyone else. There is also the opportunity to take unpaid leave time in order to follow a class or a course outside your training & development budget; this as well needs approval of your team manager.

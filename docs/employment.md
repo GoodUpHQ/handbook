@@ -31,18 +31,12 @@ taken where necessary.
 
 
 ### 💰 Expenses & reimbursements 
-GoodUp will pay the necessary costs in order to execute your work (better). These include
-books, soft- & hardware, office supplies, training & development (see also section 6.2). Also
-purchase for clients, client’s events and client related meetings can be reimbursed within a
-limit. This limit is based on good judgement what you think will benefit GoodUp.
+Purchases need to be approved by the person accountable for the budget your purchase is part of. In most cases, this will be your team manager. Always ask for a written approval preceding your purchase. 
+You can send your reimbursement request (by filling in the declaration form) including the original receipt digitally  to finance@goodup.com within a month from the purchase date. Statements handed in before the 15th of the month will be paid out in the same month.
 
-You can send your reimbursement request including the original receipt to
-finance@onepercentclub.com within a month from the purchase date.
+🧾 <mark> Download the [Expense statement form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Expense statement")</mark>
 
-🧾 <mark> Download the [declaration form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Declaration form")</mark>
-
-Expense statements can be found in the GoodUp team Dropbox folder. Expense statements
-need to be filled out digitally (in excel), printed out and handed in with all original receipts.
+Expense statements need to be filled out digitally (in excel), printed out and handed in with all original receipts.
 Statements handed in before the 15th of the month will be paid out in the same month.
 
 Singular expenses exceeding €50 and recurring expenses (subscriptions, web tools etc.)
