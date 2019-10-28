@@ -31,18 +31,25 @@ taken where necessary.
 
 
 ### 💰 Expenses & reimbursements 
-Purchases need to be approved by the person accountable for the budget your purchase is part of. In most cases, this will be your team manager. Always ask for a written approval preceding your purchase. 
-You can send your reimbursement request (by filling in the declaration form) including the original receipt digitally  to finance@goodup.com within a month from the purchase date. Statements handed in before the 15th of the month will be paid out in the same month.
-
 🧾 <mark> Download the [Expense statement form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Expense statement")</mark>
 
-Expense statements need to be filled out digitally (in excel), printed out and handed in with all original receipts.
-Statements handed in before the 15th of the month will be paid out in the same month.
+Purchases need to be approved by the person representing your team in the MT. Always ask for a written approval preceding your purchase.
+An expense statement should be in pdf-format and consists of the Expense statement form plus a digital copy of the receipt(s) (in one pdf).
+Please send your expense statement to your teamlead first for approval.
+After this, please forward this email to <mark>Email [Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>Email [Diana](mailto:diana@goodup.com "Diana")</mark>.
 
-Singular expenses exceeding €50 and recurring expenses (subscriptions, web tools etc.)
-need to be approved by the person accountable for the budget your purchase is part of. In
-most cases, this will be your team manager. Always ask for a written approval preceding
-your purchase.
+After approval by Diana, the reimbursement will be paid out with the next payments.
+
+Please note:
+
+A reimbursement request should be send within 2 months from the purchase date. There is an exception for expenses you had but should be paid for by e partner or client: this need to be send to finance@goodup.com within 1 week.
+
+Finance will review the following:
+- invoices/tickets should include VAT (btw)
+- in case of parkingcosts: be sure to get a ticket at the ticketmachine
+- in case of kilometres/food: please mention the client involved
+- please include all receipts
+
 
 ### ⛔ End of employment
 After informing your team manager, end of employment at GoodUp has to be submitted in
