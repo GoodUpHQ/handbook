@@ -31,14 +31,14 @@ taken where necessary.
 
 
 ### 💰 Expenses & reimbursements 
-🧾 <mark> Download the [Expense statement form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Expense statement")</mark>
-
 Purchases need to be approved by the person representing your team in the MT. Always ask for a written approval preceding your purchase.
 An expense statement should be in pdf-format and consists of the Expense statement form plus a digital copy of the receipt(s) (in one pdf).
 Please send your expense statement to your teamlead first for approval.
-After this, please forward this email to <mark>Email [Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>Email [Diana](mailto:diana@goodup.com "Diana")</mark>.
+After this, please forward this email to <mark>[Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>[Diana](mailto:diana@goodup.com "Diana")</mark>.
 
 After approval by Diana, the reimbursement will be paid out with the next payments.
+
+🧾 <mark> Download the [Expense statement form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Expense statement")</mark>
 
 Please note:
 
