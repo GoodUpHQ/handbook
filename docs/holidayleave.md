@@ -31,7 +31,7 @@ regular day off, no additional days are given to compensate. These days are paid
 - 5 May – Liberation day (1x per 5 years, next one will be in 2020)
 - 25 + 26 December – Christmas
 
-### 🔙 Eceptional leave
+### 🔙 Exceptional leave
 Under special circumstances, GoodUp grants paid time off. Your team manager and people
 manager have to be informed about this leave as soon as possible.
 -	Notice of marriage of the employee (ondertrouw) 1 day
@@ -133,7 +133,7 @@ partner organisation.
 
 🎍<mark>Request do good days in Bamboo -> http://goodup.bamboohr.com</mark>
 
-### 📝 Applying for a holday and leave
+### 📝 Holiday and leave
 Holidays/leave have to be requested ahead of time. Ask at least the number of weeks in
 advance according to the number of days leave unless it’s described otherwise or when you
 fall ill. So for one week off, you’ll have to request it at least 5 weeks in advance. The request

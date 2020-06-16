@@ -12,10 +12,8 @@ Should it be needed to move your day off due to personal or work related reasons
 reschedule your regular day off within 2 weeks in advance. When your regular day off is on a public holiday, rescheduling your day is not possible.
 
 ### ⏳ Overtime and compensation
-Overtime will not be compensated unless discussed otherwise. If overtime occurs outside office hours due to traveling abroad or to clients, for example giving a master class in the
-evening. These hours can be compensated within 2 weeks in agreement with your team manager and the office manager should also be informed (by e-mail).
+Overtime will not be compensated unless discussed otherwise. If overtime occurs outside office hours due to traveling abroad or to clients, for example giving a master class in the evening. These hours can be compensated within 2 weeks in agreement with your team manager (by e-mail).
 
-:email: <mark>Email our [Office Manager](mailto:bregje@goodup.com "Mail Bregje")</mark>
 
 ### 🏠 Working remote
 We like to work together as a team and use our GoodUp office as a default, however it can
@@ -23,7 +21,7 @@ happen that it’s better to work remotely due to personal or work related reaso
 
 ### 🙃 Change in personal circumstances
 For all changes of a personal nature that are related to the work relation (for example family
-composition, relocation, marriage, working hours, etc.) the office manager need to be
+composition, relocation, marriage, working hours, etc.) the team lead needs to be
 informed – preferably through BambooHR if possible, otherwise e-mail - so action can be
 taken where necessary.
 
@@ -34,9 +32,9 @@ taken where necessary.
 Purchases need to be approved by the person representing your team in the MT. Always ask for a written approval preceding your purchase.
 An expense statement should be in pdf-format and consists of the Expense statement form plus a digital copy of the receipt(s) (in one pdf).
 Please send your expense statement to your teamlead first for approval.
-After this, please forward this email to <mark>[Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>[Diana](mailto:diana@goodup.com "Diana")</mark>.
+After this, please forward this email to <mark>[Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>[Diana](mailto:wouter@goodup.com "Wouter")</mark>.
 
-After approval by Diana, the reimbursement will be paid out with the next payments.
+After approval by Wouter, the reimbursement will be paid out with the next payments.
 
 🧾 <mark> Download the [Expense statement form](https://www.dropbox.com/s/9he7knlghxuj3m1/Expense%20form%20GoodUp%202019%20TEMPLATE.xls?dl=0 "Expense statement")</mark>
 
@@ -53,7 +51,7 @@ Finance will review the following:
 
 ### ⛔ End of employment
 After informing your team manager, end of employment at GoodUp has to be submitted in
-writing to the office manager. 
+writing to the team lead. 
 
 In the last working week:
 - All-important data that are related to GoodUp need to be handed over to the team
