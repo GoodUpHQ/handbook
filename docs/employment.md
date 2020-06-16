@@ -31,8 +31,8 @@ taken where necessary.
 ### 💰 Expenses & reimbursements 
 Purchases need to be approved by the person representing your team in the MT. Always ask for a written approval preceding your purchase.
 An expense statement should be in pdf-format and consists of the Expense statement form plus a digital copy of the receipt(s) (in one pdf).
-Please send your expense statement to your teamlead first for approval.
-After this, please forward this email to <mark>[Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>[Diana](mailto:wouter@goodup.com "Wouter")</mark>.
+Please send your expense statement to your team lead first for approval.
+After this, please forward this email to <mark>[Finance](mailto:finance@goodup.com "GoodUp Finance")</mark> and <mark>[Wouter](mailto:wouter@goodup.com "Wouter")</mark>.
 
 After approval by Wouter, the reimbursement will be paid out with the next payments.
 
