@@ -67,4 +67,4 @@ while working at GoodUp, for instance laptop, mobile devices and the office keys
 Furthermore, on the last working day the office manager will shut down the access to all
 software accounts such as e-mail, Dropbox and other GoodUp tools. Passwords will be reset
 as well. In order to assure that all properties are returned and all access is shut down, the
-office manager uses the off-boarding checklist.
+team lead uses the off-boarding checklist.
