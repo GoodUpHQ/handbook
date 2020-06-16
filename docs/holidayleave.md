@@ -28,7 +28,7 @@ regular day off, no additional days are given to compensate. These days are paid
 - Variable – Ascension day (Hemelvaart)
 - Variable – Pentecost Monday (Pinksteren)
 - 27 April – Kingsday
-- 5 May – Liberation day
+- 5 May – Liberation day (Once every 5 years. Next one will be in 2025)
 - 25 + 26 December – Christmas
 
 ### 🔙 Exceptional leave
