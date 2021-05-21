@@ -71,11 +71,16 @@ In case your partner, parent, brother/sister or child is life-threatening sick a
 Maternity/ Paternity leave (zwangerschaps- en partnerverlof)
 In total you will have 16 weeks maternity leave. You have the right for maternity starting from 4 to 6 weeks before the due date and 10 weeks after delivery. You have to inform the People manager about the planned start of their maternity leave, at least 8 weeks before in writing. To facilitate family life, you as a father have the beautiful opportunity to spend some time with your family when your new child is born. You’re eligible to 2 working days of paid and 3 working days of unpaid paternity leave. This is applicable for both part-time and fulltime employment. After having notified the People manager of the actual birth date, you can consecutively take these 5 days off as of the first workday.
 
+Partner leave (partnerverlof)
+New NL regulation (as of 1 jan 2021) state that partners can take up to 5 weeks of additional partner leave. During these 5 weeks UWV will pay 70% of your income. For more details on calculations and guidelines see https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners
+GoodUp pro-actively supports these regulations and therefor will supplement your income to match 90% of your total income during the weeks af additional partner leave. 
+
 Parental leave (ouderschapsverlof)
 In order to facilitate work-life balance, GoodUp provides parental leave. To be eligible for
 parental leave, you have to have worked for GoodUp for at least one year. Parental leave is
 applicable for both parents and equals 1040 hours per child till your child/children reach the
 age of 8. You have to request parental leave at least two months before the start in writing to the People manager. Parental leave is unpaid which also means that during that time no vacation days are built up.
+
 
 Adoption and Foster care leave (adoptie en pleegzorgverlof)
 When you adopt or take a foster child in your family, you are entitled to leave so you and
